@@ -1,0 +1,11 @@
+marimo
+pandas
+altair
+statsforecast
+scikit-learn
+numpy
+statsmodels
+numba
+scipy
+typing_extensions
+utilsforecast
